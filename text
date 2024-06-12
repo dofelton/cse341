@@ -1,0 +1,2 @@
+mongodb FirstCluster connection string
+mongodb+srv://defelton:<password>@firstcluster.2lhuwbw.mongodb.net/?retryWrites=true&w=majority&appName=FirstCluster
